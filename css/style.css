@@ -87,6 +87,10 @@ main .content {
 .margin-left-right {
     margin-left: 20px;
     margin-right: 20px;
+
+}
+
+.margin-75 {
     margin-top: 75px;
 }
 
@@ -121,6 +125,23 @@ main .content {
 
 }
 
+.border-circle {
+    border-radius: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid rgb(155, 45, 186);
+}
+
+.text-size {
+    font-size: 25px;
+}
+
+.padding-bottom {
+    padding-bottom: 30px;
+}
+
 /* colors */
 
 .bg-skyblu {
@@ -137,4 +158,12 @@ main .content {
 
 .bg-violet {
     background-color: rgb(155, 45, 186);
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-white {
+    background-color: white;
 }
