@@ -142,6 +142,10 @@ main .content {
     padding-bottom: 30px;
 }
 
+.marginr-20 {
+    margin-right: 20px;
+}
+
 /* colors */
 
 .bg-skyblu {
@@ -166,4 +170,8 @@ main .content {
 
 .bg-white {
     background-color: white;
+}
+
+.text-violet {
+    color: rgb(155, 45, 186);
 }
