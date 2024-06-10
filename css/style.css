@@ -67,6 +67,17 @@ main {
 
 }
 
+.content-img-testimonial {
+    width: 100%;
+}
+
+.content-txt-testimonial {
+    width: 100%;
+}
+
+.content-cards {
+    width: 100%;
+}
 
 
 
@@ -177,6 +188,11 @@ main {
 }
 
 
+
+.txt-number {
+    font-size: 40px;
+}
+
 /*SOLUZIONE RESPONSIVE*/
 
 
@@ -189,7 +205,24 @@ main {
         width: calc((100% - 120px)/3);
         margin-top: 75px;
     }
+
+
+    .content-img-testimonial {
+        width: 50%;
+    }
+
+    .content-txt-testimonial {
+        width: 50%;
+    }
+
+    .content-cards {
+        width: 50%;
+    }
 }
+
+
+
+
 
 @media screen and (min-width: 480px) {
 
